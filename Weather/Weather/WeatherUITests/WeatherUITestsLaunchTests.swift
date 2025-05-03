@@ -2,7 +2,7 @@
 //  WeatherUITestsLaunchTests.swift
 //  WeatherUITests
 //
-//  Created by Игорь Наумов on 01.05.2025.
+//  Created by Игорь Наумов on 02.05.2025.
 //
 
 import XCTest
